@@ -3,3 +3,6 @@ This is the first file of the master.
 I am trying to become better at git. 
 
 To avoid more repeated git nightmares.
+
+I am adding this line for the first commit of the dev branch.
+
